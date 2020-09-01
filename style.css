@@ -204,13 +204,11 @@ footer a:hover {
     .footer-down,
     footer {
         flex-direction: column;
-        /* font-size: 0.6rem;
-        margin-left: 2px; */
         text-align: center;
     }
     .footer-down-right {
-        margin-top: 5px;
         text-align: center;
+        margin-top: 1rem;
     }
     body {
         font-size: 0.75rem;
@@ -220,6 +218,6 @@ footer a:hover {
     }
     .logo img {
         width: 60%;
-        height: 10vh;
+        height: auto;
     }
 }
