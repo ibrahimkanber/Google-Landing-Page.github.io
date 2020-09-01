@@ -199,7 +199,7 @@ footer a:hover {
         box-sizing: content-box;
     }
     .searchbar {
-        width: 80%;
+        width: 83%;
     }
     .footer-down,
     footer {
@@ -219,5 +219,11 @@ footer a:hover {
     .logo img {
         width: 60%;
         height: auto;
+    }
+}
+
+@media(max-height:440px) {
+    footer {
+        visibility: hidden;
     }
 }
