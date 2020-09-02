@@ -53,7 +53,8 @@
                 background-color: rgb(51, 144, 255);
                 color: white;
                 height: 50%;
-                border: none
+                border: none;
+                border-radius: 5px;
             }
             
             #header-right button:hover {
