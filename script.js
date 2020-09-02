@@ -1,4 +1,4 @@
-const searchbuton = document.getElementById("btn1");
+const searchbuton = document.getElementById("searchButton");
 searchbuton.addEventListener("click", () => {
-    alert("Belki kurs bitiminde :)))")
+    alert("Not yet:)))")
 })
